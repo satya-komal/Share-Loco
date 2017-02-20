@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShareLoco</string>
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">password</string>
+    <string name="prompt_phone_no">phone_no</string>
+    <string name="login_bn_label">Login</string>
+    <string name="reg_bn_label">Register</string>
+    <string name="sign_up_text">New User? Sign up</string>
+    <string name="Location">Location</string>
+    <string name="Gps">Gps</string>
+    <string name="getCoordinates">getCoordinates</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Current_Latitude">Current_Latitude</string>
+    <string name="Current_Longitude">Current_Longitude</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="message">message</string>
+    <string name="user">user</string>
+</resources>
